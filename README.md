@@ -1,5 +1,5 @@
 
-# Model deployment
+# Triton
 
 There are two ways of model deployment: embedding and serving.
 
